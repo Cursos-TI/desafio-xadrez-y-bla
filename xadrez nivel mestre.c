@@ -43,5 +43,6 @@ printf("Torre movimenta para:\n");
     printf("Direita\n");
     }
 
+
     return 0;
 }
